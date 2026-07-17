@@ -1,15 +1,17 @@
-# Weather Dashboard
+# 🌦 Weather Dashboard
 
-A responsive Weather Dashboard built using HTML, CSS, and JavaScript.
+A responsive weather dashboard built using HTML, CSS, JavaScript, and the OpenWeather API.
 
 ## Features
 
 - Search weather by city
-- Displays temperature
-- Shows humidity
-- Shows wind speed
-- Weather condition icons
-- Responsive design
+- Live weather information
+- Displays:
+  - Temperature
+  - Weather condition
+  - Humidity
+  - Wind Speed
+- Responsive user interface
 
 ## Technologies Used
 
@@ -18,13 +20,22 @@ A responsive Weather Dashboard built using HTML, CSS, and JavaScript.
 - JavaScript
 - OpenWeather API
 
-## Project Status
+## Live Demo
 
-🚧 Under Development
+https://joseblesse6.github.io/weather-dashboard/
+
+## Screenshots
+
+![Weather Dashboard](images/weather-dashboard.png)
 
 ## Future Improvements
 
-- 5-day forecast
-- Dark mode
 - Current location weather
-- Recent search history
+- 5-day weather forecast
+- Dark mode
+- Weather icons
+- Better animations
+
+## Author
+
+Joselin Margrate Blesse
